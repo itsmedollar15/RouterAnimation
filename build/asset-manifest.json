@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02900f1b.css",
+    "main.js": "/static/js/main.69152334.js",
+    "static/media/background.jpg": "/static/media/background.23a2ba8b642e9dd9c7e1.jpg",
+    "static/media/grocery.jpg": "/static/media/grocery.dc33ff5bbbae18ac0e56.jpg",
+    "static/media/fashion.jpg": "/static/media/fashion.547a0754688643301ecb.jpg",
+    "static/media/iphone.jpg": "/static/media/iphone.4b090a4f1876e722d8d1.jpg",
+    "static/media/electronics.jpg": "/static/media/electronics.60f7e87db78379f8db2d.jpg",
+    "index.html": "/index.html",
+    "main.02900f1b.css.map": "/static/css/main.02900f1b.css.map",
+    "main.69152334.js.map": "/static/js/main.69152334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02900f1b.css",
+    "static/js/main.69152334.js"
+  ]
+}
